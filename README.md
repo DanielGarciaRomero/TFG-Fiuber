@@ -14,8 +14,12 @@
 
 ### Memòria
 
-[![Memoria](https://i.imgur.com/0OV5KA4.png)](https://upcommons.upc.edu/handle/2117/118755)
+[![Memoria](https://i.imgur.com/HqtqBkX.png)](https://upcommons.upc.edu/handle/2117/118755)
 
 ### Transparències utilitzades durant la presentació
 
-[![Transparencies](https://i.imgur.com/4wXnT3a.png)](/Fiuber.pdf)
+[![Transparencies](https://i.imgur.com/CiykhJ7.png)](/Fiuber.pdf)
+
+### Demo
+
+[![Demo](https://i.imgur.com/FYwW41h.png)](https://docs.google.com/file/d/1YUId8Hd8j7BZiCHX1HGqNQN2CHQZztsP/preview)
