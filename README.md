@@ -2,7 +2,7 @@
 
 ### Dades del projecte
 
-| | Fiuber |
+| | Fiuber: sistema per facilitar la comunicació entre empreses i transportistes autònoms |
 | ------ | ------ |
 | Alumne | Daniel García Romero |
 | Directora | Dolors Costal Costa |
