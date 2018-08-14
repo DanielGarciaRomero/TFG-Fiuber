@@ -6,8 +6,8 @@
 | ------ | ------ |
 | Alumne | Daniel García Romero |
 | Directora | Dolors Costal Costa |
-| Universitat | UPC-FIB |
-| Titulació | Grau en Enginyeria en Informàtica (Enginyeria del Software) |
+| Universitat | Universitat Politècnica de Catalunya, Facultat d'Informàtica de Barcelona |
+| Titulació | Grau en Enginyeria Informàtica (Enginyeria del Software) |
 | Data de lectura | 25 d’abril de 2018 |
 | Qualificació | 9.5 |
 | Resum | Fiuber és un sistema format per una aplicació web i una aplicació mòbil que pretén ser un punt de trobada entre empreses i transportistes autònoms per tal de facilitar-los els processos de contractació, comunicació i gestió de les comandes. |
